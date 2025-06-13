@@ -8,7 +8,7 @@ This project consists of:
 
 ## 📁 Project Structure
 
-project-root/
+project-root/...
 ├── backend/ # Node.js server
 │ └── server.js
 ├── frontend/ # React frontend
@@ -16,3 +16,19 @@ project-root/
 │ ├── src/
 │ └── package.json
 ├── README.md
+
+
+
+---
+
+## 🚀 Setup Instructions
+
+### 1️⃣ Backend (Node.js)
+
+#### ✅ Requirements
+- Node.js installed (https://nodejs.org)
+
+#### 📦 Install Dependencies
+```bash
+cd backend
+npm install
