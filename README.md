@@ -29,9 +29,9 @@ project-root/<br />
 - Node.js installed (https://nodejs.org)
 
 #### 📦 Install Dependencies
-```bash
-cd back
-npm install
+
+    cd back
+    npm install
 
 
 ▶️ Run the Server
