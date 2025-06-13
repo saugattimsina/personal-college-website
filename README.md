@@ -41,8 +41,7 @@ npm install
 The server runs on: http://localhost:3000
 All submitted contact messages will be saved to backend/messages.txt
 
-
-2️⃣ Frontend (React)
+2️⃣Frontend (React)
 ✅ Requirements
 
 Node.js installed
@@ -59,8 +58,6 @@ npm or yarn
     npm start
 
 The app will be available at: http://localhost:3001 (or another port if 3000 is used)
-
-
 
 ⚙️ Notes
 The React form sends a POST request to the Node.js server at http://localhost:3000/contact
