@@ -8,14 +8,14 @@ This project consists of:
 
 ## 📁 Project Structure
 
-project-root/...
-├── backend/ # Node.js server
-│ └── server.js
-├── frontend/ # React frontend
-│ ├── public/
-│ ├── src/
-│ └── package.json
-├── README.md
+project-root/<br />
+├── backend/ # Node.js server<br />
+│ └── server.js<br />
+├── frontend/ # React frontend<br />
+│ ├── public/<br />
+│ ├── src/<br />
+│ └── package.json<br />
+├── README.md<br />
 
 
 
