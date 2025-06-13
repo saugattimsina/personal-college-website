@@ -1,7 +1,7 @@
-# Anchor Bytes Contact Form Project
+# Anchor Bytes Personal Website
 
 This project consists of:
-- A **React frontend** with a contact form
+- A **React frontend** with explaination of company
 - A **Node.js backend API** that receives form data and saves it to a local file
 
 ---
