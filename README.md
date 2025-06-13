@@ -33,7 +33,9 @@ project-root/<br />
 cd back
 npm install
 
+
 ▶️ Run the Server
+
     node server.js
 
 The server runs on: http://localhost:3000
@@ -42,16 +44,18 @@ All submitted contact messages will be saved to backend/messages.txt
 
 2️⃣ Frontend (React)
 ✅ Requirements
+
 Node.js installed
 
 npm or yarn
 
-📦 Install Dependencies
+📦Install Dependencies
 
-cd frontend-test
+    cd frontend-test
     npm install
 
 ▶️ Run the App
+
     npm start
 
 The app will be available at: http://localhost:3001 (or another port if 3000 is used)
